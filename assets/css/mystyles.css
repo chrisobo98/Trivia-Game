@@ -1,0 +1,62 @@
+/* himalayas background */
+body {
+	background: url('https://i.imgur.com/tY3OiJm.jpg') no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.mainBox {
+	min-height: 500px;
+	height: 550px;
+	background-color: #2A526E;
+	
+}
+
+.column {
+	margin-top: 55px;
+	
+	
+}
+
+.text {
+	color: #EB4442;
+	font-family: 'Bungee Inline', cursive;
+	font-size: 50px;
+	
+}
+
+.timer {
+	font-family: 'Bungee Inline', cursive;
+	color: #BABA3E;
+	font-size: 25px;
+	/* font-family: 'Vollkorn SC', serif; */
+}
+
+.message {
+	font-family: 'Bungee Inline', cursive;
+	font-size: 20px;
+	color: #BABA3E;
+}
+
+.answer {
+	font-family: 'Bungee Inline', cursive;
+	font-size: 20px;
+	padding-top: 20px;
+	color: #BABA3E;
+	cursor:crosshair;
+}
+
+.question {
+	font-family: 'Bungee Inline', cursive;
+	font-size: 20px;
+	color: #BABA3E;
+}
+
+.correct {
+	font-family: 'Bungee Inline', cursive;
+	font-size: 20px;
+	color: #BABA3E;
+
+}
